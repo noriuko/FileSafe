@@ -1,0 +1,5 @@
+cryptography>=43.0.0
+customtkinter>=5.2.2
+tkinterdnd2>=0.4.2
+Pillow>=10.4.0
+pyinstaller>=6.10.0
